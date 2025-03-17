@@ -51,15 +51,15 @@ The dataset was uploaded and loaded into a Pandas DataFrame. The structure of th
 - A heatmap showed the relationship between online orders and restaurant type.
 - Conclusion: Dining restaurants primarily operate offline, whereas cafes receive more online orders.
 
-### **Identifying the Most Expensive and Cheapest Restaurants**
+#### **Identifying the Most Expensive and Cheapest Restaurants**
 - The dataset was sorted by cost to determine the top 10 most expensive and cheapest restaurants.
 - "Ayda Persian Kitchen" was the most expensive restaurant, while several small eateries had the lowest costs.
 
-### **Most Popular Restaurants by Votes**
+#### **Most Popular Restaurants by Votes**
 - A bar plot visualized the top 10 restaurants with the most votes.
 - Conclusion: Certain restaurants received significantly more public engagement.
 
-### **Impact of Table Booking on Ratings**
+#### **Impact of Table Booking on Ratings**
 - A box plot analyzed whether booking a table influenced ratings.
 - Conclusion: Restaurants that allow table booking generally receive higher ratings.
 
@@ -80,7 +80,6 @@ This analysis provides valuable insights into restaurant trends, customer prefer
 
 ---
 
-### Author: Pratham Nagar  
-### Dataset: Zomato Restaurant Data  
+### Author: Pratham Nagar   
 ### Tools Used: Python, Pandas, NumPy, Matplotlib, Seaborn
 
