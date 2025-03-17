@@ -1,5 +1,4 @@
 # Zomato_Data_Analysis
-# Zomato Data Analysis
 
 ## Overview
 This project analyzes a dataset of restaurants from Zomato, focusing on various factors such as online orders, table bookings, ratings, votes, and approximate costs for two people. The analysis includes data visualization and key insights drawn from the dataset.
